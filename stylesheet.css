@@ -1,4 +1,3 @@
-
 body {
   margin: 0;
 }
@@ -14,8 +13,8 @@ header{
 
 a {
   text-decoration: none;
-
 }
+
 
 .menu-header{
 width: 1170px;
@@ -25,16 +24,20 @@ margin: 0 auto;
 .logo{
   width: 60px;
   height:50px;
-  margin-top:10px;
+  padding-right:10px;
 }
 
 .nama-logo{
-  margin-top:10px;
-
+  margin:10px auto;
+  color:white;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 70px;
 }
 
 .menu-header-logo{
   float:left;
+
 }
 
 .menu-header-list{
@@ -50,7 +53,6 @@ margin: 0 auto;
   color: white;
   margin-right:20px;
   margin-left: 20px;
-  font-weight: bold
   padding:0 25px;
 
 }
